@@ -6,9 +6,9 @@ Bad Apple (LISP edition)
 2. Descarga tu versión de Bad Apple favorita
     - Renombralo a "video.mp4"
 3. Ejecuta el script de Python
-    - (requiere cv2)
+    - _Requiere cv2_
 4. Ejecuta apple.lsp con xlisp
-    - Testeado con la versión de Windows y WINE desde WSL
+    - _Testeado con la versión de Windows y WINE desde WSL_
 
 
 Daniel García Vázquez (XanaDevelops)
